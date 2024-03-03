@@ -3,7 +3,7 @@ Unofficial YouTube app for Windows computers.
 
 ## How to install
 
-* Download the lastest release [here](https://github.com/roxenor/youtube-enhanced/releases/latest/youtube-enhanced-windows64.zip)
+* Download the lastest release [here](https://github.com/roxenor/youtube-enhanced/releases/latest/download/youtube-enhanced-windows64.zip)
 * unzip the folder ;
 * open the unzipped folder ;
 * run "update_shortcut.bat" ;
