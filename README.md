@@ -33,7 +33,7 @@ To make this app, Firefox was configured as follow:
 
 This repo embeds [Mozilla Firefox ESR](https://www.mozilla.org/fr/firefox/all/#product-desktop-esr).
 
-[update_shortcut]() uses code snippet from [[1]](https://superuser.com/questions/455364/how-to-create-a-shortcut-using-a-batch-script) for the temporary VBscript concept, [[2]](https://stackoverflow.com/questions/29322003/modify-start-in-properties-box-of-shortcut-with-vbs) for the working directory concept, [[3]](https://stackoverflow.com/questions/36854003/using-vbscript-or-batch-to-change-shortcut-icon) for the icon location concept.
+[update_shortcut](https://github.com/roxenor/youtube-enhanced/blob/main/partial%20app/update_shortcut.bat) uses code snippet from [[1]](https://superuser.com/questions/455364/how-to-create-a-shortcut-using-a-batch-script) for the temporary VBscript concept, [[2]](https://stackoverflow.com/questions/29322003/modify-start-in-properties-box-of-shortcut-with-vbs) for the working directory concept, [[3]](https://stackoverflow.com/questions/36854003/using-vbscript-or-batch-to-change-shortcut-icon) for the icon location concept.
 
 ## Design notes
 
